@@ -64,4 +64,4 @@ Possible technologies used in the project:
 ## Getting Started
 
 
-by: Bumsteed 
+by: Bumsteed Dev
